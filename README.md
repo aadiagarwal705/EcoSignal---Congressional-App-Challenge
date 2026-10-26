@@ -63,3 +63,4 @@ Everything is under `lib/`:
 - Deleting a report also deletes its photos and videos from Storage, through a Cloud Function.
 
 The backend code (Cloud Functions, security rules, the script that imports the MDE data) lives outside this folder, in the same repository.
+# EcoSignal---Congressional-App-Challenge
