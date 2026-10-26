@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "776182699118",
+    "project_id": "ecosignal-a10ae",
+    "storage_bucket": "ecosignal-a10ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776182699118:android:d8845bab7028eccc09427f",
+        "android_client_info": {
+          "package_name": "com.ecosignal.md"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776182699118-06o7ct8vjtinv8sop7nmn8kqqcvv8vl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecosignal.md",
+            "certificate_hash": "e817470ad914ca593f8f3a69f9bb8ea11ef15d7a"
+          }
+        },
+        {
+          "client_id": "776182699118-k6uo8b7jatgujv4nue0ins3ui3elbnge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCMp3BtpBwIM3pxnvp507k-1DED0cSnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776182699118-k6uo8b7jatgujv4nue0ins3ui3elbnge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776182699118-hn5lsnpjt5s2t552a1v7evglnboqugc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ecosignal.md"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776182699118:android:34e2938e516512b709427f",
+        "android_client_info": {
+          "package_name": "com.example.ecosignal_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776182699118-k6uo8b7jatgujv4nue0ins3ui3elbnge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCMp3BtpBwIM3pxnvp507k-1DED0cSnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776182699118-k6uo8b7jatgujv4nue0ins3ui3elbnge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776182699118-hn5lsnpjt5s2t552a1v7evglnboqugc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ecosignal.md"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
